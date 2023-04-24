@@ -19,22 +19,6 @@
 	</div>
 </nav>
 
-<div class="jumbotron">
-	<div class="container">
-		<h1>${title}</h1>
-		<p>
-			<c:if test="${not empty msg}">
-				Hello ${msg}
-			</c:if>
-
-			<c:if test="${empty msg}">
-				Welcome Welcome!
-			</c:if>
-		<p>
-			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
-		</p>
-	</div>
-</div>
 
 <div class="container">
 
@@ -48,7 +32,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; LW 2022</p>
+		<p>&copy; Uploaded on github</p>
 	</footer>
 </div>
 
