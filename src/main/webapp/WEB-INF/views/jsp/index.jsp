@@ -20,7 +20,7 @@
 </nav>
 <div class="jumbotron">
 	<div class="container">
-		<h1>My project is integration of </h1>
+		<h1>My project is MASTER SLAVE Jenkins integration of TOMCAT, JENKINS, DOCKER, AWS, SSH CONCEPTS, MAVEN, TESTING </h1>
 	</div>
 </div>
 
